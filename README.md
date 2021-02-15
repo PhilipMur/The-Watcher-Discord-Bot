@@ -2,7 +2,7 @@
 A Discord Watcher bot for the game Rust.
 Yes i play the game Rust by Facepunch and i want to keep track of players who login and log out and how long they played for, so i created a discord bot to do this for me.
 
-I have this Bot running on a Rasberry pi4 with DietPi Operating system so it runs 24/7.
+I have this Bot running on a Raspberry pi4 with DietPi Operating system so it runs 24/7.
 
 Note: this can work for other games too just i only care about Rust ;-)
 
