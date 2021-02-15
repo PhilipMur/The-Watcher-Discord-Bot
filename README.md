@@ -6,6 +6,13 @@ I have this Bot running on a Raspberry pi4 with DietPi Operating system so it ru
 
 It tracks players joined/logged and play time in Rust game servers via Battlemetrics.com so you need to find the server you want to track in battlemetrics and paste in the url to the setup config file.
 
+You can track when a player changes their name but the server needs to be connected to playrust.io and the bot will automatically create an sqllite3 database and start storing player names and name changes, although this isnt fully tested and could be improved.
+
+When the Discord bot is up and running you can use the command 
+(>help) command to display possible commands such as 
+(>players) :gets all the current players
+(>pinfo) :get all players from the database (still needs work to get by name etc)
+
 Note: this can work for other games too but i only care about Rust ;-)
 
 ## Prerequisites for this project to work:
