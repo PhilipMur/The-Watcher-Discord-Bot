@@ -17,7 +17,10 @@ py -3 -m pip install -U requests
 py -3 -m pip install -U beautifulsoup4
 
 ## To start a terminal in DietPi
+make a file called myFileLaunch.sh and add the following
+```
 xterm -e python3.7 /root/Desktop/The-Watcher-Discord-Bot/main.py
+```
 
 ## To have the Discord Bot launch on login to the DietPi Desktop
 
