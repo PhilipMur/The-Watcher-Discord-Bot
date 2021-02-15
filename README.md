@@ -1,4 +1,4 @@
-# The-Watcher-Discord-Bot
+# The-Watcher-Discord-Bot For the game Rust
 A Discord Watcher bot for the game Rust.
 Yes i play the game Rust by Facepunch and i want to keep track of players who login and log out and how long they played for, so i created a discord bot to do this for me.
 
@@ -28,15 +28,15 @@ xterm -e python3.7 /root/Desktop/The-Watcher-Discord-Bot/main.py
 5. make a file (myfile.desktop)
 6. in the file put the following
 
-[Desktop Entry]
-Encoding=UTF-8
-Type=Application
-Name=<GUI Controller>
-Comment=
-Exec= python3.7 /root/Desktop/The-Watcher-Discord-Bot/main.py
-StartupNotify=false
-Terminal=true
-Hidden=false
+>> [Desktop Entry]
+>> Encoding=UTF-8
+>> Type=Application
+>> Name=<GUI Controller>
+>> Comment=
+>> Exec= python3.7 /root/Desktop/The-Watcher-Discord-Bot/main.py
+>> StartupNotify=false
+>> Terminal=true
+>> Hidden=false
 
 The above code will launch the python files in a visible terminal window.
 Obviously i put my files on the desktop so you should do the same or choose your own location.
