@@ -28,15 +28,17 @@ xterm -e python3.7 /root/Desktop/The-Watcher-Discord-Bot/main.py
 5. make a file (myfile.desktop)
 6. in the file put the following
 
->> [Desktop Entry]
->> Encoding=UTF-8
->> Type=Application
->> Name=<GUI Controller>
->> Comment=
->> Exec= python3.7 /root/Desktop/The-Watcher-Discord-Bot/main.py
->> StartupNotify=false
->> Terminal=true
->> Hidden=false
+```
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=<GUI Controller>
+Comment=
+Exec= python3.7 /root/Desktop/The-Watcher-Discord-Bot/main.py
+StartupNotify=false
+Terminal=true
+Hidden=false
+```
 
 The above code will launch the python files in a visible terminal window.
 Obviously i put my files on the desktop so you should do the same or choose your own location.
