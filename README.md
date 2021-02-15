@@ -6,7 +6,7 @@ I have this Bot running on a Raspberry pi4 with DietPi Operating system so it ru
 
 It tracks players joined/logged and play time in Rust game servers via Battlemetrics.com so you need to find the server you want to track in battlemetrics and paste in the url to the setup config file.
 
-Note: this can work for other games too just i only care about Rust ;-)
+Note: this can work for other games too but i only care about Rust ;-)
 
 ## Prerequisites for this project to work:
 
