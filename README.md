@@ -16,10 +16,10 @@ py -3 -m pip install -U requests
 
 py -3 -m pip install -U beautifulsoup4
 
-# To start a terminal in DietPi
+## To start a terminal in DietPi
 xterm -e python3.7 /root/Desktop/The-Watcher-Discord-Bot/main.py
 
-#To have the Discord Bot launch on login to the DietPi Desktop
+## To have the Discord Bot launch on login to the DietPi Desktop
 
 1. /root
 2. right click and show hidden files
@@ -41,7 +41,7 @@ Hidden=false
 The above code will launch the python files in a visible terminal window.
 Obviously i put my files on the desktop so you should do the same or choose your own location.
 
-# In the Setup Folder enter in your setup, there is an explaination on how to set it up too.
+## In the Setup Folder enter in your setup, there is an explaination on how to set it up too.
 
 I will update with pictures later on so that you can see what the bot does.
 
